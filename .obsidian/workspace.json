@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Инженерный журнал/2026-10-10 — Первая запись.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-10-10 — Первая запись"
             }
           }
         ]
@@ -188,6 +188,8 @@
   },
   "active": "07f3bb19bafa4b75",
   "lastOpenFiles": [
+    "README.md",
+    "Инженерный журнал/2026-10-10 — Первая запись.md",
     "Инженерный журнал"
   ]
 }
